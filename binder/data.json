@@ -1,0 +1,1598 @@
+[
+   {
+      "cfsFoodCode":"1601101a2",
+      "enDesc":"Cattle / Calf, carcasses and half-carcasses, Unprocessed (chilled)",
+      "tcDesc":"牛 (肉殼及半邊肉殼), 未加工 (冷凍)",
+      "scDesc":"牛 (肉壳及半边肉壳), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601101a3",
+      "enDesc":"Cattle / Calf, carcasses and half-carcasses, Unprocessed (frozen)",
+      "tcDesc":"牛 (肉殼及半邊肉殼), 未加工(冰凍)",
+      "scDesc":"牛 (肉壳及半边肉壳), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601102a2",
+      "enDesc":"Beef / Veal (including beef steak), Unprocessed (chilled)",
+      "tcDesc":"牛肉 / 小牛肉 (包括牛扒), 未加工 (冷凍)",
+      "scDesc":"牛肉 / 小牛肉 (包括牛扒), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601102a3",
+      "enDesc":"Beef / Veal (including beef steak), Unprocessed (frozen)",
+      "tcDesc":"牛肉 / 小牛肉 (包括牛扒), 未加工(冰凍)",
+      "scDesc":"牛肉 / 小牛肉 (包括牛扒), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601103a2",
+      "enDesc":"Beef flank / beef brisket / beef plate, Unprocessed (chilled)",
+      "tcDesc":"牛腩 / 牛胸腩 / 牛胸腹, 未加工 (冷凍)",
+      "scDesc":"牛腩 / 牛胸腩 / 牛胸腹, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601103a3",
+      "enDesc":"Beef flank / beef brisket / beef plate, Unprocessed (frozen)",
+      "tcDesc":"牛腩 / 牛胸腩 / 牛胸腹, 未加工(冰凍)",
+      "scDesc":"牛腩 / 牛胸腩 / 牛胸腹, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601104a2",
+      "enDesc":"Beef ribs / Veal ribs, Unprocessed (chilled)",
+      "tcDesc":"牛肋排 / 牛仔骨, 未加工 (冷凍)",
+      "scDesc":"牛肋排 / 牛仔骨, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601104a3",
+      "enDesc":"Beef ribs / Veal ribs, Unprocessed (frozen)",
+      "tcDesc":"牛肋排 / 牛仔骨, 未加工(冰凍)",
+      "scDesc":"牛肋排 / 牛仔骨, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601105a2",
+      "enDesc":"Cattle bone, Unprocessed (chilled)",
+      "tcDesc":"牛骨, 未加工 (冷凍)",
+      "scDesc":"牛骨, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601105a3",
+      "enDesc":"Cattle bone, Unprocessed (frozen)",
+      "tcDesc":"牛骨, 未加工(冰凍)",
+      "scDesc":"牛骨, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601106a2",
+      "enDesc":"Cattle bone marrow, Unprocessed (chilled)",
+      "tcDesc":"牛骨髓, 未加工 (冷凍)",
+      "scDesc":"牛骨髓, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601106a3",
+      "enDesc":"Cattle bone marrow, Unprocessed (frozen)",
+      "tcDesc":"牛骨髓, 未加工(冰凍)",
+      "scDesc":"牛骨髓, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601107a2",
+      "enDesc":"Oxtail, Unprocessed (chilled)",
+      "tcDesc":"牛尾, 未加工 (冷凍)",
+      "scDesc":"牛尾, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601107a3",
+      "enDesc":"Oxtail, Unprocessed (frozen)",
+      "tcDesc":"牛尾, 未加工(冰凍)",
+      "scDesc":"牛尾, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601108a2",
+      "enDesc":"Beef trimming, Unprocessed (chilled)",
+      "tcDesc":"牛肉屑, 未加工 (冷凍)",
+      "scDesc":"牛肉屑, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601108a3",
+      "enDesc":"Beef trimming, Unprocessed (frozen)",
+      "tcDesc":"牛肉屑, 未加工(冰凍)",
+      "scDesc":"牛肉屑, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601109a2",
+      "enDesc":"Beef, minced, Unprocessed (chilled)",
+      "tcDesc":"牛肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"牛肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601109a3",
+      "enDesc":"Beef, minced, Unprocessed (frozen)",
+      "tcDesc":"牛肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"牛肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601199a2",
+      "enDesc":"Cattle / Calf, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"牛 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"牛 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601199a3",
+      "enDesc":"Cattle / Calf, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"牛 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"牛 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601201a2",
+      "enDesc":"Assorted cattle offal, Unprocessed (chilled)",
+      "tcDesc":"牛什, 未加工 (冷凍)",
+      "scDesc":"牛什, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601201a3",
+      "enDesc":"Assorted cattle offal, Unprocessed (frozen)",
+      "tcDesc":"牛什, 未加工(冰凍)",
+      "scDesc":"牛什, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601202a2",
+      "enDesc":"Cattle blood, Unprocessed (chilled)",
+      "tcDesc":"牛血 / 牛紅, 未加工 (冷凍)",
+      "scDesc":"牛血 / 牛红, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601202a3",
+      "enDesc":"Cattle blood, Unprocessed (frozen)",
+      "tcDesc":"牛血 / 牛紅, 未加工(冰凍)",
+      "scDesc":"牛血 / 牛红, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601203a2",
+      "enDesc":"Cattle brain, Unprocessed (chilled)",
+      "tcDesc":"牛腦, 未加工 (冷凍)",
+      "scDesc":"牛脑, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601203a3",
+      "enDesc":"Cattle brain, Unprocessed (frozen)",
+      "tcDesc":"牛腦, 未加工(冰凍)",
+      "scDesc":"牛脑, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601204a2",
+      "enDesc":"Cattle heart, Unprocessed (chilled)",
+      "tcDesc":"牛心, 未加工 (冷凍)",
+      "scDesc":"牛心, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601204a3",
+      "enDesc":"Cattle heart, Unprocessed (frozen)",
+      "tcDesc":"牛心, 未加工(冰凍)",
+      "scDesc":"牛心, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601205a2",
+      "enDesc":"Cattle kidney, Unprocessed (chilled)",
+      "tcDesc":"牛腎, 未加工 (冷凍)",
+      "scDesc":"牛肾, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601205a3",
+      "enDesc":"Cattle kidney, Unprocessed (frozen)",
+      "tcDesc":"牛腎, 未加工(冰凍)",
+      "scDesc":"牛肾, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601206a2",
+      "enDesc":"Cattle intestine, Unprocessed (chilled)",
+      "tcDesc":"牛腸, 未加工 (冷凍)",
+      "scDesc":"牛肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601206a3",
+      "enDesc":"Cattle intestine, Unprocessed (frozen)",
+      "tcDesc":"牛腸, 未加工(冰凍)",
+      "scDesc":"牛肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601207a2",
+      "enDesc":"Cattle liver, Unprocessed (chilled)",
+      "tcDesc":"牛肝 / 牛膶, 未加工 (冷凍)",
+      "scDesc":"牛肝 / 牛膶, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601207a3",
+      "enDesc":"Cattle liver, Unprocessed (frozen)",
+      "tcDesc":"牛肝 / 牛膶, 未加工(冰凍)",
+      "scDesc":"牛肝 / 牛膶, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601208a2",
+      "enDesc":"Cattle lung, Unprocessed (chilled)",
+      "tcDesc":"牛肺, 未加工 (冷凍)",
+      "scDesc":"牛肺, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601208a3",
+      "enDesc":"Cattle lung, Unprocessed (frozen)",
+      "tcDesc":"牛肺, 未加工(冰凍)",
+      "scDesc":"牛肺, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601209a2",
+      "enDesc":"Cattle penis / pizzle, Unprocessed (chilled)",
+      "tcDesc":"牛鞭, 未加工 (冷凍)",
+      "scDesc":"牛鞭, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601209a3",
+      "enDesc":"Cattle penis / pizzle, Unprocessed (frozen)",
+      "tcDesc":"牛鞭, 未加工(冰凍)",
+      "scDesc":"牛鞭, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601210a2",
+      "enDesc":"Cattle spleen, Unprocessed (chilled)",
+      "tcDesc":"牛膀, 未加工 (冷凍)",
+      "scDesc":"牛膀, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601210a3",
+      "enDesc":"Cattle spleen, Unprocessed (frozen)",
+      "tcDesc":"牛膀, 未加工(冰凍)",
+      "scDesc":"牛膀, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601211a2",
+      "enDesc":"Cattle tendon / paddywack, Unprocessed (chilled)",
+      "tcDesc":"牛筋, 未加工 (冷凍)",
+      "scDesc":"牛筋, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601211a3",
+      "enDesc":"Cattle tendon / paddywack, Unprocessed (frozen)",
+      "tcDesc":"牛筋, 未加工(冰凍)",
+      "scDesc":"牛筋, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601212a2",
+      "enDesc":"Cattle testicles, Unprocessed (chilled)",
+      "tcDesc":"牛睪丸, 未加工 (冷凍)",
+      "scDesc":"牛睪丸, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601212a3",
+      "enDesc":"Cattle testicles, Unprocessed (frozen)",
+      "tcDesc":"牛睪丸, 未加工(冰凍)",
+      "scDesc":"牛睪丸, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601213a2",
+      "enDesc":"Cattle tongue, Unprocessed (chilled)",
+      "tcDesc":"牛舌, 未加工 (冷凍)",
+      "scDesc":"牛舌, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601213a3",
+      "enDesc":"Cattle tongue, Unprocessed (frozen)",
+      "tcDesc":"牛舌, 未加工(冰凍)",
+      "scDesc":"牛舌, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601214a2",
+      "enDesc":"Cattle tripe / Cattle stomach, Unprocessed (chilled)",
+      "tcDesc":"牛肚, 未加工 (冷凍)",
+      "scDesc":"牛肚, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601214a3",
+      "enDesc":"Cattle tripe / Cattle stomach, Unprocessed (frozen)",
+      "tcDesc":"牛肚, 未加工(冰凍)",
+      "scDesc":"牛肚, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601215a2",
+      "enDesc":"Cattle aorta, Unprocessed (chilled)",
+      "tcDesc":"牛心管, 未加工 (冷凍)",
+      "scDesc":"牛心管, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601215a3",
+      "enDesc":"Cattle aorta, Unprocessed (frozen)",
+      "tcDesc":"牛心管, 未加工(冰凍)",
+      "scDesc":"牛心管, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601216a2",
+      "enDesc":"Membrane (silver skin) of various cattle parts, Unprocessed (chilled)",
+      "tcDesc":"不同牛部位的膜, 未加工 (冷凍)",
+      "scDesc":"不同牛部位的膜, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601216a3",
+      "enDesc":"Membrane (silver skin) of various cattle parts, Unprocessed (frozen)",
+      "tcDesc":"不同牛部位的膜, 未加工(冰凍)",
+      "scDesc":"不同牛部位的膜, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601217a2",
+      "enDesc":"Cattle spinal cord, Unprocessed (chilled)",
+      "tcDesc":"牛脊髓, 未加工 (冷凍)",
+      "scDesc":"牛脊髓, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601217a3",
+      "enDesc":"Cattle spinal cord, Unprocessed (frozen)",
+      "tcDesc":"牛脊髓, 未加工(冰凍)",
+      "scDesc":"牛脊髓, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1601299a2",
+      "enDesc":"Cattle / Calf, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"牛 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"牛 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1601299a3",
+      "enDesc":"Cattle / Calf, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"牛 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"牛 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602101a2",
+      "enDesc":"Pig, carcasses and half-carcasses, Unprocessed (chilled)",
+      "tcDesc":"豬 (肉殼及半邊肉殼), 未加工 (冷凍)",
+      "scDesc":"猪 (肉壳及半边肉壳), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602101a3",
+      "enDesc":"Pig, carcasses and half-carcasses, Unprocessed (frozen)",
+      "tcDesc":"豬 (肉殼及半邊肉殼), 未加工(冰凍)",
+      "scDesc":"猪 (肉壳及半边肉壳), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602102a2",
+      "enDesc":"Pork (including pork chop), Unprocessed (chilled)",
+      "tcDesc":"豬肉 (包括豬扒), 未加工 (冷凍)",
+      "scDesc":"猪肉 (包括猪扒), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602102a3",
+      "enDesc":"Pork (including pork chop), Unprocessed (frozen)",
+      "tcDesc":"豬肉 (包括豬扒), 未加工(冰凍)",
+      "scDesc":"猪肉 (包括猪扒), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602103a2",
+      "enDesc":"Pork belly, Unprocessed (chilled)",
+      "tcDesc":"豬腩肉, 未加工 (冷凍)",
+      "scDesc":"猪腩肉, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602103a3",
+      "enDesc":"Pork belly, Unprocessed (frozen)",
+      "tcDesc":"豬腩肉, 未加工(冰凍)",
+      "scDesc":"猪腩肉, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602104a2",
+      "enDesc":"Pork ribs, Unprocessed (chilled)",
+      "tcDesc":"豬排骨, 未加工 (冷凍)",
+      "scDesc":"猪排骨, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602104a3",
+      "enDesc":"Pork ribs, Unprocessed (frozen)",
+      "tcDesc":"豬排骨, 未加工(冰凍)",
+      "scDesc":"猪排骨, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602105a2",
+      "enDesc":"Pork cheek, Unprocessed (chilled)",
+      "tcDesc":"豬頸肉, 未加工 (冷凍)",
+      "scDesc":"猪颈肉, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602105a3",
+      "enDesc":"Pork cheek, Unprocessed (frozen)",
+      "tcDesc":"豬頸肉, 未加工(冰凍)",
+      "scDesc":"猪颈肉, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602106a2",
+      "enDesc":"Pork knuckle / Pig feet, Unprocessed (chilled)",
+      "tcDesc":"豬蹄 / 豬手, 未加工 (冷凍)",
+      "scDesc":"猪蹄 / 猪手, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602106a3",
+      "enDesc":"Pork knuckle / Pig feet, Unprocessed (frozen)",
+      "tcDesc":"豬蹄 / 豬手, 未加工(冰凍)",
+      "scDesc":"猪蹄 / 猪手, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602107a2",
+      "enDesc":"Pig cartilage, Unprocessed (chilled)",
+      "tcDesc":"豬軟骨, 未加工 (冷凍)",
+      "scDesc":"猪软骨, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602107a3",
+      "enDesc":"Pig cartilage, Unprocessed (frozen)",
+      "tcDesc":"豬軟骨, 未加工(冰凍)",
+      "scDesc":"猪软骨, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602108a2",
+      "enDesc":"Pig bone (including pig tail bone), Unprocessed (chilled)",
+      "tcDesc":"豬骨 (包括豬尾骨), 未加工 (冷凍)",
+      "scDesc":"猪骨 (包括猪尾骨), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602108a3",
+      "enDesc":"Pig bone (including pig tail bone), Unprocessed (frozen)",
+      "tcDesc":"豬骨 (包括豬尾骨), 未加工(冰凍)",
+      "scDesc":"猪骨 (包括猪尾骨), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602109a2",
+      "enDesc":"Suckling pig, Unprocessed (chilled)",
+      "tcDesc":"乳豬, 未加工 (冷凍)",
+      "scDesc":"乳猪, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602109a3",
+      "enDesc":"Suckling pig, Unprocessed (frozen)",
+      "tcDesc":"乳豬, 未加工(冰凍)",
+      "scDesc":"乳猪, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602110a2",
+      "enDesc":"Pork trimming, Unprocessed (chilled)",
+      "tcDesc":"豬肉屑, 未加工 (冷凍)",
+      "scDesc":"猪肉屑, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602110a3",
+      "enDesc":"Pork trimming, Unprocessed (frozen)",
+      "tcDesc":"豬肉屑, 未加工(冰凍)",
+      "scDesc":"猪肉屑, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602111a2",
+      "enDesc":"Pork, minced, Unprocessed (chilled)",
+      "tcDesc":"豬肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"猪肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602111a3",
+      "enDesc":"Pork, minced, Unprocessed (frozen)",
+      "tcDesc":"豬肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"猪肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602199a2",
+      "enDesc":"Pig, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"豬 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"猪 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602199a3",
+      "enDesc":"Pig, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"豬 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"猪 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602201a2",
+      "enDesc":"Pig blood, Unprocessed (chilled)",
+      "tcDesc":"豬血 / 豬紅, 未加工 (冷凍)",
+      "scDesc":"猪血 / 猪红, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602201a3",
+      "enDesc":"Pig blood, Unprocessed (frozen)",
+      "tcDesc":"豬血 / 豬紅, 未加工(冰凍)",
+      "scDesc":"猪血 / 猪红, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602202a2",
+      "enDesc":"Pig brain, Unprocessed (chilled)",
+      "tcDesc":"豬腦, 未加工 (冷凍)",
+      "scDesc":"猪脑, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602202a3",
+      "enDesc":"Pig brain, Unprocessed (frozen)",
+      "tcDesc":"豬腦, 未加工(冰凍)",
+      "scDesc":"猪脑, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602203a2",
+      "enDesc":"Pig ear, Unprocessed (chilled)",
+      "tcDesc":"豬耳, 未加工 (冷凍)",
+      "scDesc":"猪耳, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602203a3",
+      "enDesc":"Pig ear, Unprocessed (frozen)",
+      "tcDesc":"豬耳, 未加工(冰凍)",
+      "scDesc":"猪耳, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602204a2",
+      "enDesc":"Pig heart, Unprocessed (chilled)",
+      "tcDesc":"豬心, 未加工 (冷凍)",
+      "scDesc":"猪心, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602204a3",
+      "enDesc":"Pig heart, Unprocessed (frozen)",
+      "tcDesc":"豬心, 未加工(冰凍)",
+      "scDesc":"猪心, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602205a2",
+      "enDesc":"Pig kidney, Unprocessed (chilled)",
+      "tcDesc":"豬腰, 未加工 (冷凍)",
+      "scDesc":"猪腰, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602205a3",
+      "enDesc":"Pig kidney, Unprocessed (frozen)",
+      "tcDesc":"豬腰, 未加工(冰凍)",
+      "scDesc":"猪腰, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602206a2",
+      "enDesc":"Pig large intestine, Unprocessed (chilled)",
+      "tcDesc":"豬大腸, 未加工 (冷凍)",
+      "scDesc":"猪大肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602206a3",
+      "enDesc":"Pig large intestine, Unprocessed (frozen)",
+      "tcDesc":"豬大腸, 未加工(冰凍)",
+      "scDesc":"猪大肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602207a2",
+      "enDesc":"Pig liver, Unprocessed (chilled)",
+      "tcDesc":"豬肝 / 豬膶, 未加工 (冷凍)",
+      "scDesc":"猪肝 / 猪膶, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602207a3",
+      "enDesc":"Pig liver, Unprocessed (frozen)",
+      "tcDesc":"豬肝 / 豬膶, 未加工(冰凍)",
+      "scDesc":"猪肝 / 猪膶, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602208a2",
+      "enDesc":"Pig lung, Unprocessed (chilled)",
+      "tcDesc":"豬肺, 未加工 (冷凍)",
+      "scDesc":"猪肺, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602208a3",
+      "enDesc":"Pig lung, Unprocessed (frozen)",
+      "tcDesc":"豬肺, 未加工(冰凍)",
+      "scDesc":"猪肺, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602209a2",
+      "enDesc":"Pig skin, Unprocessed (chilled)",
+      "tcDesc":"豬皮, 未加工 (冷凍)",
+      "scDesc":"猪皮, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602209a3",
+      "enDesc":"Pig skin, Unprocessed (frozen)",
+      "tcDesc":"豬皮, 未加工(冰凍)",
+      "scDesc":"猪皮, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602210a2",
+      "enDesc":"Pig small intestine, Unprocessed (chilled)",
+      "tcDesc":"豬粉腸, 未加工 (冷凍)",
+      "scDesc":"猪粉肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602210a3",
+      "enDesc":"Pig small intestine, Unprocessed (frozen)",
+      "tcDesc":"豬粉腸, 未加工(冰凍)",
+      "scDesc":"猪粉肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602211a2",
+      "enDesc":"Pig spleen, Unprocessed (chilled)",
+      "tcDesc":"豬橫脷, 未加工 (冷凍)",
+      "scDesc":"猪横脷, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602211a3",
+      "enDesc":"Pig spleen, Unprocessed (frozen)",
+      "tcDesc":"豬橫脷, 未加工(冰凍)",
+      "scDesc":"猪横脷, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602212a2",
+      "enDesc":"Pig tripe / Pig stomach, Unprocessed (chilled)",
+      "tcDesc":"豬肚, 未加工 (冷凍)",
+      "scDesc":"猪肚, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602212a3",
+      "enDesc":"Pig tripe / Pig stomach, Unprocessed (frozen)",
+      "tcDesc":"豬肚, 未加工(冰凍)",
+      "scDesc":"猪肚, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602213a2",
+      "enDesc":"Pig tongue, Unprocessed (chilled)",
+      "tcDesc":"豬脷, 未加工 (冷凍)",
+      "scDesc":"猪脷, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602213a3",
+      "enDesc":"Pig tongue, Unprocessed (frozen)",
+      "tcDesc":"豬脷, 未加工(冰凍)",
+      "scDesc":"猪脷, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602214a2",
+      "enDesc":"Pig urinary bladder, Unprocessed (chilled)",
+      "tcDesc":"豬小肚, 未加工 (冷凍)",
+      "scDesc":"猪小肚, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602214a3",
+      "enDesc":"Pig urinary bladder, Unprocessed (frozen)",
+      "tcDesc":"豬小肚, 未加工(冰凍)",
+      "scDesc":"猪小肚, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602215a2",
+      "enDesc":"Pig uterus, Unprocessed (chilled)",
+      "tcDesc":"豬生腸, 未加工 (冷凍)",
+      "scDesc":"猪生肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602215a3",
+      "enDesc":"Pig uterus, Unprocessed (frozen)",
+      "tcDesc":"豬生腸, 未加工(冰凍)",
+      "scDesc":"猪生肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602216a2",
+      "enDesc":"Pig aorta, Unprocessed (chilled)",
+      "tcDesc":"豬心管, 未加工 (冷凍)",
+      "scDesc":"猪心管, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602216a3",
+      "enDesc":"Pig aorta, Unprocessed (frozen)",
+      "tcDesc":"豬心管, 未加工(冰凍)",
+      "scDesc":"猪心管, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602217a2",
+      "enDesc":"Pig snout, Unprocessed (chilled)",
+      "tcDesc":"豬鼻, 未加工 (冷凍)",
+      "scDesc":"猪鼻, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602217a3",
+      "enDesc":"Pig snout, Unprocessed (frozen)",
+      "tcDesc":"豬鼻, 未加工(冰凍)",
+      "scDesc":"猪鼻, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1602299a2",
+      "enDesc":"Pig, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"豬 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"猪 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1602299a3",
+      "enDesc":"Pig, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"豬 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"猪 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603101a2",
+      "enDesc":"Sheep / Lamb, carcasses and half-carcasses, Unprocessed (chilled)",
+      "tcDesc":"綿羊 / 羔羊 (肉殼及半邊肉殼), 未加工 (冷凍)",
+      "scDesc":"绵羊 / 羔羊 (肉壳及半边肉壳), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603101a3",
+      "enDesc":"Sheep / Lamb, carcasses and half-carcasses, Unprocessed (frozen)",
+      "tcDesc":"綿羊 / 羔羊 (肉殼及半邊肉殼), 未加工(冰凍)",
+      "scDesc":"绵羊 / 羔羊 (肉壳及半边肉壳), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603102a2",
+      "enDesc":"Mutton / Lamb (including lamb chop), Unprocessed (chilled)",
+      "tcDesc":"綿羊肉 / 羔羊肉 (包括羊扒), 未加工 (冷凍)",
+      "scDesc":"绵羊肉 / 羔羊肉 (包括羊扒), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603102a3",
+      "enDesc":"Mutton / Lamb (including lamb chop), Unprocessed (frozen)",
+      "tcDesc":"綿羊肉 / 羔羊肉 (包括羊扒), 未加工(冰凍)",
+      "scDesc":"绵羊肉 / 羔羊肉 (包括羊扒), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603103a2",
+      "enDesc":"Sheep / Lamb flank or sheep / lamb breast, Unprocessed (chilled)",
+      "tcDesc":"羊腩 / 羊胸腩 (綿羊 / 羔羊), 未加工 (冷凍)",
+      "scDesc":"羊腩 / 羊胸腩 (绵羊 / 羔羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603103a3",
+      "enDesc":"Sheep / Lamb flank or sheep / lamb breast, Unprocessed (frozen)",
+      "tcDesc":"羊腩 / 羊胸腩 (綿羊 / 羔羊), 未加工(冰凍)",
+      "scDesc":"羊腩 / 羊胸腩 (绵羊 / 羔羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603104a2",
+      "enDesc":"Mutton / Lamb trimming, Unprocessed (chilled)",
+      "tcDesc":"羊肉屑 (綿羊 / 羔羊), 未加工 (冷凍)",
+      "scDesc":"羊肉屑 (绵羊 / 羔羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603104a3",
+      "enDesc":"Mutton / Lamb trimming, Unprocessed (frozen)",
+      "tcDesc":"羊肉屑 (綿羊 / 羔羊), 未加工(冰凍)",
+      "scDesc":"羊肉屑 (绵羊 / 羔羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603105a2",
+      "enDesc":"Mutton / Lamb, minced, Unprocessed (chilled)",
+      "tcDesc":"綿羊肉 / 羔羊肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"绵羊肉 / 羔羊肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603105a3",
+      "enDesc":"Mutton / Lamb, minced, Unprocessed (frozen)",
+      "tcDesc":"綿羊肉 / 羔羊肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"绵羊肉 / 羔羊肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603199a2",
+      "enDesc":"Sheep / Lamb, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"綿羊 / 羔羊 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"绵羊 / 羔羊 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603199a3",
+      "enDesc":"Sheep / Lamb, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"綿羊 / 羔羊 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"绵羊 / 羔羊 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603201a2",
+      "enDesc":"Sheep blood, Unprocessed (chilled)",
+      "tcDesc":"羊血 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊血 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603201a3",
+      "enDesc":"Sheep blood, Unprocessed (frozen)",
+      "tcDesc":"羊血 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊血 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603202a2",
+      "enDesc":"Sheep brain, Unprocessed (chilled)",
+      "tcDesc":"羊腦 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊脑 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603202a3",
+      "enDesc":"Sheep brain, Unprocessed (frozen)",
+      "tcDesc":"羊腦 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊脑 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603203a2",
+      "enDesc":"Sheep heart, Unprocessed (chilled)",
+      "tcDesc":"羊心 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊心 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603203a3",
+      "enDesc":"Sheep heart, Unprocessed (frozen)",
+      "tcDesc":"羊心 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊心 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603204a2",
+      "enDesc":"Sheep kidney, Unprocessed (chilled)",
+      "tcDesc":"羊腎 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊肾 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603204a3",
+      "enDesc":"Sheep kidney, Unprocessed (frozen)",
+      "tcDesc":"羊腎 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊肾 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603205a2",
+      "enDesc":"Sheep intestine, Unprocessed (chilled)",
+      "tcDesc":"羊腸 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊肠 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603205a3",
+      "enDesc":"Sheep intestine, Unprocessed (frozen)",
+      "tcDesc":"羊腸 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊肠 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603206a2",
+      "enDesc":"Sheep liver, Unprocessed (chilled)",
+      "tcDesc":"羊肝 / 羊膶 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊肝 / 羊膶 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603206a3",
+      "enDesc":"Sheep liver, Unprocessed (frozen)",
+      "tcDesc":"羊肝 / 羊膶 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊肝 / 羊膶 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603207a2",
+      "enDesc":"Sheep lung, Unprocessed (chilled)",
+      "tcDesc":"羊肺 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊肺 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603207a3",
+      "enDesc":"Sheep lung, Unprocessed (frozen)",
+      "tcDesc":"羊肺 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊肺 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603208a2",
+      "enDesc":"Sheep tripe / Sheep stomach, Unprocessed (chilled)",
+      "tcDesc":"羊肚 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊肚 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603208a3",
+      "enDesc":"Sheep tripe / Sheep stomach, Unprocessed (frozen)",
+      "tcDesc":"羊肚 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊肚 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603209a2",
+      "enDesc":"Sheep tongue, Unprocessed (chilled)",
+      "tcDesc":"羊舌 (綿羊), 未加工 (冷凍)",
+      "scDesc":"羊舌 (绵羊), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603209a3",
+      "enDesc":"Sheep tongue, Unprocessed (frozen)",
+      "tcDesc":"羊舌 (綿羊), 未加工(冰凍)",
+      "scDesc":"羊舌 (绵羊), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1603299a2",
+      "enDesc":"Sheep, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"綿羊 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"绵羊 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1603299a3",
+      "enDesc":"Sheep, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"綿羊 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"绵羊 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605101a2",
+      "enDesc":"Chicken, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"雞 (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"鸡 (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605101a3",
+      "enDesc":"Chicken, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"雞 (原隻未切件), 未加工(冰凍)",
+      "scDesc":"鸡 (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605102a2",
+      "enDesc":"Chicken cuts, Unprocessed (chilled)",
+      "tcDesc":"雞 (切件), 未加工 (冷凍)",
+      "scDesc":"鸡 (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605102a3",
+      "enDesc":"Chicken cuts, Unprocessed (frozen)",
+      "tcDesc":"雞 (切件), 未加工(冰凍)",
+      "scDesc":"鸡 (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605103a2",
+      "enDesc":"Chicken breast, Unprocessed (chilled)",
+      "tcDesc":"雞胸, 未加工 (冷凍)",
+      "scDesc":"鸡胸, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605103a3",
+      "enDesc":"Chicken breast, Unprocessed (frozen)",
+      "tcDesc":"雞胸, 未加工(冰凍)",
+      "scDesc":"鸡胸, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605104a2",
+      "enDesc":"Chicken feet, Unprocessed (chilled)",
+      "tcDesc":"雞腳, 未加工 (冷凍)",
+      "scDesc":"鸡脚, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605104a3",
+      "enDesc":"Chicken feet, Unprocessed (frozen)",
+      "tcDesc":"雞腳, 未加工(冰凍)",
+      "scDesc":"鸡脚, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605105a2",
+      "enDesc":"Chicken leg, Unprocessed (chilled)",
+      "tcDesc":"雞腿, 未加工 (冷凍)",
+      "scDesc":"鸡腿, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605105a3",
+      "enDesc":"Chicken leg, Unprocessed (frozen)",
+      "tcDesc":"雞腿, 未加工(冰凍)",
+      "scDesc":"鸡腿, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605106a2",
+      "enDesc":"Chicken wing, Unprocessed (chilled)",
+      "tcDesc":"雞翼, 未加工 (冷凍)",
+      "scDesc":"鸡翼, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605106a3",
+      "enDesc":"Chicken wing, Unprocessed (frozen)",
+      "tcDesc":"雞翼, 未加工(冰凍)",
+      "scDesc":"鸡翼, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605107a2",
+      "enDesc":"Chicken, minced, Unprocessed (chilled)",
+      "tcDesc":"雞肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"鸡肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605107a3",
+      "enDesc":"Chicken, minced, Unprocessed (frozen)",
+      "tcDesc":"雞肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"鸡肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605108a2",
+      "enDesc":"Rock cornish game hen, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"來亨可尼西雞 (春雞) (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"来亨可尼西鸡 (春鸡) (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605108a3",
+      "enDesc":"Rock cornish game hen, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"來亨可尼西雞 (春雞) (原隻未切件), 未加工(冰凍)",
+      "scDesc":"来亨可尼西鸡 (春鸡) (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605109a2",
+      "enDesc":"Rock cornish game hen cuts, Unprocessed (chilled)",
+      "tcDesc":"來亨可尼西雞 (春雞) (切件), 未加工 (冷凍)",
+      "scDesc":"来亨可尼西鸡 (春鸡) (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605109a3",
+      "enDesc":"Rock cornish game hen cuts, Unprocessed (frozen)",
+      "tcDesc":"來亨可尼西雞 (春雞) (切件), 未加工(冰凍)",
+      "scDesc":"来亨可尼西鸡 (春鸡) (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605110a2",
+      "enDesc":"Poussin, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"普桑雞 (春雞) (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"普桑鸡 (春鸡) (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605110a3",
+      "enDesc":"Poussin, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"普桑雞 (春雞) (原隻未切件), 未加工(冰凍)",
+      "scDesc":"普桑鸡 (春鸡) (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605111a2",
+      "enDesc":"Poussin cuts, Unprocessed (chilled)",
+      "tcDesc":"普桑雞 (春雞) (切件), 未加工 (冷凍)",
+      "scDesc":"普桑鸡 (春鸡) (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605111a3",
+      "enDesc":"Poussin cuts, Unprocessed (frozen)",
+      "tcDesc":"普桑雞 (春雞) (切件), 未加工(冰凍)",
+      "scDesc":"普桑鸡 (春鸡) (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605112a2",
+      "enDesc":"Silkie chicken, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"竹絲雞 (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"竹丝鸡 (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605112a3",
+      "enDesc":"Silkie chicken, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"竹絲雞 (原隻未切件), 未加工(冰凍)",
+      "scDesc":"竹丝鸡 (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605113a2",
+      "enDesc":"Silkie chicken cuts, Unprocessed (chilled)",
+      "tcDesc":"竹絲雞 (切件), 未加工 (冷凍)",
+      "scDesc":"竹丝鸡 (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605113a3",
+      "enDesc":"Silkie chicken cuts, Unprocessed (frozen)",
+      "tcDesc":"竹絲雞 (切件), 未加工(冰凍)",
+      "scDesc":"竹丝鸡 (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605199a2",
+      "enDesc":"Chicken, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"雞 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"鸡 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605199a3",
+      "enDesc":"Chicken, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"雞 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"鸡 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605201a2",
+      "enDesc":"Chicken blood, Unprocessed (chilled)",
+      "tcDesc":"雞血 / 雞紅, 未加工 (冷凍)",
+      "scDesc":"鸡血 / 鸡红, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605201a3",
+      "enDesc":"Chicken blood, Unprocessed (frozen)",
+      "tcDesc":"雞血 / 雞紅, 未加工(冰凍)",
+      "scDesc":"鸡血 / 鸡红, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605202a2",
+      "enDesc":"Chicken gizzard, Unprocessed (chilled)",
+      "tcDesc":"雞肫, 未加工 (冷凍)",
+      "scDesc":"鸡肫, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605202a3",
+      "enDesc":"Chicken gizzard, Unprocessed (frozen)",
+      "tcDesc":"雞肫, 未加工(冰凍)",
+      "scDesc":"鸡肫, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605203a2",
+      "enDesc":"Chicken heart, Unprocessed (chilled)",
+      "tcDesc":"雞心, 未加工 (冷凍)",
+      "scDesc":"鸡心, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605203a3",
+      "enDesc":"Chicken heart, Unprocessed (frozen)",
+      "tcDesc":"雞心, 未加工(冰凍)",
+      "scDesc":"鸡心, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605204a2",
+      "enDesc":"Chicken intestine, Unprocessed (chilled)",
+      "tcDesc":"雞腸, 未加工 (冷凍)",
+      "scDesc":"鸡肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605204a3",
+      "enDesc":"Chicken intestine, Unprocessed (frozen)",
+      "tcDesc":"雞腸, 未加工(冰凍)",
+      "scDesc":"鸡肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605205a2",
+      "enDesc":"Chicken liver, Unprocessed (chilled)",
+      "tcDesc":"雞肝 / 雞膶, 未加工 (冷凍)",
+      "scDesc":"鸡肝 / 鸡膶, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605205a3",
+      "enDesc":"Chicken liver, Unprocessed (frozen)",
+      "tcDesc":"雞肝 / 雞膶, 未加工(冰凍)",
+      "scDesc":"鸡肝 / 鸡膶, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605206a2",
+      "enDesc":"Chicken testicles, Unprocessed (chilled)",
+      "tcDesc":"雞子, 未加工 (冷凍)",
+      "scDesc":"鸡子, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605206a3",
+      "enDesc":"Chicken testicles, Unprocessed (frozen)",
+      "tcDesc":"雞子, 未加工(冰凍)",
+      "scDesc":"鸡子, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1605299a2",
+      "enDesc":"Chicken, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"雞 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"鸡 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1605299a3",
+      "enDesc":"Chicken, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"雞 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"鸡 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606101a2",
+      "enDesc":"Duck, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"鴨 (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"鸭 (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606101a3",
+      "enDesc":"Duck, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"鴨 (原隻未切件), 未加工(冰凍)",
+      "scDesc":"鸭 (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606102a2",
+      "enDesc":"Duck cuts, Unprocessed (chilled)",
+      "tcDesc":"鴨 (切件), 未加工 (冷凍)",
+      "scDesc":"鸭 (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606102a3",
+      "enDesc":"Duck cuts, Unprocessed (frozen)",
+      "tcDesc":"鴨 (切件), 未加工(冰凍)",
+      "scDesc":"鸭 (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606103a2",
+      "enDesc":"Duck breast, Unprocessed (chilled)",
+      "tcDesc":"鴨胸, 未加工 (冷凍)",
+      "scDesc":"鸭胸, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606103a3",
+      "enDesc":"Duck breast, Unprocessed (frozen)",
+      "tcDesc":"鴨胸, 未加工(冰凍)",
+      "scDesc":"鸭胸, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606104a2",
+      "enDesc":"Duck feet, Unprocessed (chilled)",
+      "tcDesc":"鴨腳, 未加工 (冷凍)",
+      "scDesc":"鸭脚, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606104a3",
+      "enDesc":"Duck feet, Unprocessed (frozen)",
+      "tcDesc":"鴨腳, 未加工(冰凍)",
+      "scDesc":"鸭脚, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606105a2",
+      "enDesc":"Duck leg, Unprocessed (chilled)",
+      "tcDesc":"鴨腿, 未加工 (冷凍)",
+      "scDesc":"鸭腿, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606105a3",
+      "enDesc":"Duck leg, Unprocessed (frozen)",
+      "tcDesc":"鴨腿, 未加工(冰凍)",
+      "scDesc":"鸭腿, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606106a2",
+      "enDesc":"Duck wing, Unprocessed (chilled)",
+      "tcDesc":"鴨翼, 未加工 (冷凍)",
+      "scDesc":"鸭翼, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606106a3",
+      "enDesc":"Duck wing, Unprocessed (frozen)",
+      "tcDesc":"鴨翼, 未加工(冰凍)",
+      "scDesc":"鸭翼, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606107a2",
+      "enDesc":"Duck, minced, Unprocessed (chilled)",
+      "tcDesc":"鴨肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"鸭肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606107a3",
+      "enDesc":"Duck, minced, Unprocessed (frozen)",
+      "tcDesc":"鴨肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"鸭肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606199a2",
+      "enDesc":"Duck, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"鴨 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"鸭 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606199a3",
+      "enDesc":"Duck, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"鴨 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"鸭 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606201a2",
+      "enDesc":"Duck blood, Unprocessed (chilled)",
+      "tcDesc":"鴨血 / 鴨紅, 未加工 (冷凍)",
+      "scDesc":"鸭血 / 鸭红, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606201a3",
+      "enDesc":"Duck blood, Unprocessed (frozen)",
+      "tcDesc":"鴨血 / 鴨紅, 未加工(冰凍)",
+      "scDesc":"鸭血 / 鸭红, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606202a2",
+      "enDesc":"Duck gizzard, Unprocessed (chilled)",
+      "tcDesc":"鴨肫, 未加工 (冷凍)",
+      "scDesc":"鸭肫, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606202a3",
+      "enDesc":"Duck gizzard, Unprocessed (frozen)",
+      "tcDesc":"鴨肫, 未加工(冰凍)",
+      "scDesc":"鸭肫, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606203a2",
+      "enDesc":"Duck heart, Unprocessed (chilled)",
+      "tcDesc":"鴨心, 未加工 (冷凍)",
+      "scDesc":"鸭心, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606203a3",
+      "enDesc":"Duck heart, Unprocessed (frozen)",
+      "tcDesc":"鴨心, 未加工(冰凍)",
+      "scDesc":"鸭心, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606204a2",
+      "enDesc":"Duck intestine, Unprocessed (chilled)",
+      "tcDesc":"鴨腸, 未加工 (冷凍)",
+      "scDesc":"鸭肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606204a3",
+      "enDesc":"Duck intestine, Unprocessed (frozen)",
+      "tcDesc":"鴨腸, 未加工(冰凍)",
+      "scDesc":"鸭肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606205a2",
+      "enDesc":"Duck liver, Unprocessed (chilled)",
+      "tcDesc":"鴨肝 / 鴨膶, 未加工 (冷凍)",
+      "scDesc":"鸭肝 / 鸭膶, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606205a3",
+      "enDesc":"Duck liver, Unprocessed (frozen)",
+      "tcDesc":"鴨肝 / 鴨膶, 未加工(冰凍)",
+      "scDesc":"鸭肝 / 鸭膶, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606206a2",
+      "enDesc":"Duck tongue, Unprocessed (chilled)",
+      "tcDesc":"鴨舌, 未加工 (冷凍)",
+      "scDesc":"鸭舌, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606206a3",
+      "enDesc":"Duck tongue, Unprocessed (frozen)",
+      "tcDesc":"鴨舌, 未加工(冰凍)",
+      "scDesc":"鸭舌, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1606299a2",
+      "enDesc":"Duck, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"鴨 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"鸭 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1606299a3",
+      "enDesc":"Duck, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"鴨 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"鸭 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607101a2",
+      "enDesc":"Goose, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"鵝 (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"鹅 (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607101a3",
+      "enDesc":"Goose, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"鵝 (原隻未切件), 未加工(冰凍)",
+      "scDesc":"鹅 (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607102a2",
+      "enDesc":"Goose cuts, Unprocessed (chilled)",
+      "tcDesc":"鵝 (切件), 未加工 (冷凍)",
+      "scDesc":"鹅 (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607102a3",
+      "enDesc":"Goose cuts, Unprocessed (frozen)",
+      "tcDesc":"鵝 (切件), 未加工(冰凍)",
+      "scDesc":"鹅 (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607103a2",
+      "enDesc":"Goose breast, Unprocessed (chilled)",
+      "tcDesc":"鵝胸, 未加工 (冷凍)",
+      "scDesc":"鹅胸, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607103a3",
+      "enDesc":"Goose breast, Unprocessed (frozen)",
+      "tcDesc":"鵝胸, 未加工(冰凍)",
+      "scDesc":"鹅胸, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607104a2",
+      "enDesc":"Goose feet, Unprocessed (chilled)",
+      "tcDesc":"鵝腳, 未加工 (冷凍)",
+      "scDesc":"鹅脚, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607104a3",
+      "enDesc":"Goose feet, Unprocessed (frozen)",
+      "tcDesc":"鵝腳, 未加工(冰凍)",
+      "scDesc":"鹅脚, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607105a2",
+      "enDesc":"Goose leg, Unprocessed (chilled)",
+      "tcDesc":"鵝腿, 未加工 (冷凍)",
+      "scDesc":"鹅腿, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607105a3",
+      "enDesc":"Goose leg, Unprocessed (frozen)",
+      "tcDesc":"鵝腿, 未加工(冰凍)",
+      "scDesc":"鹅腿, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607106a2",
+      "enDesc":"Goose wing, Unprocessed (chilled)",
+      "tcDesc":"鵝翼, 未加工 (冷凍)",
+      "scDesc":"鹅翼, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607106a3",
+      "enDesc":"Goose wing, Unprocessed (frozen)",
+      "tcDesc":"鵝翼, 未加工(冰凍)",
+      "scDesc":"鹅翼, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607107a2",
+      "enDesc":"Goose, minced, Unprocessed (chilled)",
+      "tcDesc":"鵝肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"鹅肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607107a3",
+      "enDesc":"Goose, minced, Unprocessed (frozen)",
+      "tcDesc":"鵝肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"鹅肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607199a2",
+      "enDesc":"Goose, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"鵝 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"鹅 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607199a3",
+      "enDesc":"Goose, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"鵝 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"鹅 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607201a2",
+      "enDesc":"Goose gizzard, Unprocessed (chilled)",
+      "tcDesc":"鵝肫, 未加工 (冷凍)",
+      "scDesc":"鹅肫, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607201a3",
+      "enDesc":"Goose gizzard, Unprocessed (frozen)",
+      "tcDesc":"鵝肫, 未加工(冰凍)",
+      "scDesc":"鹅肫, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607202a2",
+      "enDesc":"Goose intestine, Unprocessed (chilled)",
+      "tcDesc":"鵝腸, 未加工 (冷凍)",
+      "scDesc":"鹅肠, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607202a3",
+      "enDesc":"Goose intestine, Unprocessed (frozen)",
+      "tcDesc":"鵝腸, 未加工(冰凍)",
+      "scDesc":"鹅肠, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607203a2",
+      "enDesc":"Goose liver, Unprocessed (chilled)",
+      "tcDesc":"鵝肝 / 鵝膶, 未加工 (冷凍)",
+      "scDesc":"鹅肝 / 鹅膶, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607203a3",
+      "enDesc":"Goose liver, Unprocessed (frozen)",
+      "tcDesc":"鵝肝 / 鵝膶, 未加工(冰凍)",
+      "scDesc":"鹅肝 / 鹅膶, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1607299a2",
+      "enDesc":"Goose, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"鵝 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"鹅 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1607299a3",
+      "enDesc":"Goose, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"鵝 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"鹅 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608101a2",
+      "enDesc":"Turkey, whole (not cut in pieces), Unprocessed (chilled)",
+      "tcDesc":"火雞 (原隻未切件), 未加工 (冷凍)",
+      "scDesc":"火鸡 (原只未切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608101a3",
+      "enDesc":"Turkey, whole (not cut in pieces), Unprocessed (frozen)",
+      "tcDesc":"火雞 (原隻未切件), 未加工(冰凍)",
+      "scDesc":"火鸡 (原只未切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608102a2",
+      "enDesc":"Turkey cuts, Unprocessed (chilled)",
+      "tcDesc":"火雞 (切件), 未加工 (冷凍)",
+      "scDesc":"火鸡 (切件), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608102a3",
+      "enDesc":"Turkey cuts, Unprocessed (frozen)",
+      "tcDesc":"火雞 (切件), 未加工(冰凍)",
+      "scDesc":"火鸡 (切件), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608103a2",
+      "enDesc":"Turkey breast, Unprocessed (chilled)",
+      "tcDesc":"火雞胸, 未加工 (冷凍)",
+      "scDesc":"火鸡胸, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608103a3",
+      "enDesc":"Turkey breast, Unprocessed (frozen)",
+      "tcDesc":"火雞胸, 未加工(冰凍)",
+      "scDesc":"火鸡胸, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608104a2",
+      "enDesc":"Turkey leg, Unprocessed (chilled)",
+      "tcDesc":"火雞腿, 未加工 (冷凍)",
+      "scDesc":"火鸡腿, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608104a3",
+      "enDesc":"Turkey leg, Unprocessed (frozen)",
+      "tcDesc":"火雞腿, 未加工(冰凍)",
+      "scDesc":"火鸡腿, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608105a2",
+      "enDesc":"Turkey wing, Unprocessed (chilled)",
+      "tcDesc":"火雞翼, 未加工 (冷凍)",
+      "scDesc":"火鸡翼, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608105a3",
+      "enDesc":"Turkey wing, Unprocessed (frozen)",
+      "tcDesc":"火雞翼, 未加工(冰凍)",
+      "scDesc":"火鸡翼, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608106a2",
+      "enDesc":"Turkey, minced, Unprocessed (chilled)",
+      "tcDesc":"火雞肉 (剁碎), 未加工 (冷凍)",
+      "scDesc":"火鸡肉 (剁碎), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608106a3",
+      "enDesc":"Turkey, minced, Unprocessed (frozen)",
+      "tcDesc":"火雞肉 (剁碎), 未加工(冰凍)",
+      "scDesc":"火鸡肉 (剁碎), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608199a2",
+      "enDesc":"Turkey, meat (item not specified), Unprocessed (chilled)",
+      "tcDesc":"火雞 (肉類) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"火鸡 (肉类) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608199a3",
+      "enDesc":"Turkey, meat (item not specified), Unprocessed (frozen)",
+      "tcDesc":"火雞 (肉類) (未指明項目), 未加工(冰凍)",
+      "scDesc":"火鸡 (肉类) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608201a2",
+      "enDesc":"Turkey gizzard, Unprocessed (chilled)",
+      "tcDesc":"火雞肫, 未加工 (冷凍)",
+      "scDesc":"火鸡肫, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608201a3",
+      "enDesc":"Turkey gizzard, Unprocessed (frozen)",
+      "tcDesc":"火雞肫, 未加工(冰凍)",
+      "scDesc":"火鸡肫, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608202a2",
+      "enDesc":"Turkey liver, Unprocessed (chilled)",
+      "tcDesc":"火雞肝 / 火雞膶, 未加工 (冷凍)",
+      "scDesc":"火鸡肝 / 火鸡膶, 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608202a3",
+      "enDesc":"Turkey liver, Unprocessed (frozen)",
+      "tcDesc":"火雞肝 / 火雞膶, 未加工(冰凍)",
+      "scDesc":"火鸡肝 / 火鸡膶, 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1608299a2",
+      "enDesc":"Turkey, edible offal (item not specified), Unprocessed (chilled)",
+      "tcDesc":"火雞 (可食用什臟) (未指明項目), 未加工 (冷凍)",
+      "scDesc":"火鸡 (可食用什脏) (未指明项目), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1608299a3",
+      "enDesc":"Turkey, edible offal (item not specified), Unprocessed (frozen)",
+      "tcDesc":"火雞 (可食用什臟) (未指明項目), 未加工(冰凍)",
+      "scDesc":"火鸡 (可食用什脏) (未指明项目), 未加工(冰冻)"
+   },
+   {
+      "cfsFoodCode":"1699102a2",
+      "enDesc":"Buffalo, meat and edible offal, Unprocessed (chilled)",
+      "tcDesc":"水牛 (肉類及可食用什臟), 未加工 (冷凍)",
+      "scDesc":"水牛 (肉类及可食用什脏), 未加工 (冷冻)"
+   },
+   {
+      "cfsFoodCode":"1699102a3",
+      "enDesc":"Buffalo, meat and edible offal, Unprocessed (frozen)",
+      "tcDesc":"水牛 (肉類及可食用什臟), 未加工(冰凍)",
+      "scDesc":"水牛 (肉类及可食用什脏), 未加工(冰冻)"
+   }
+]
